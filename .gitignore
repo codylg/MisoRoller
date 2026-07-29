@@ -6,5 +6,4 @@ xcuserdata/
 *.xcscmblueprint
 
 .claude/
-Screens/
-*.pxd
+_Resources/
